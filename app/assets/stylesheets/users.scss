@@ -1,0 +1,54 @@
+/* ユーザー情報テーブル */
+
+.user-table {
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* 入力フォーム */
+
+.label-signup {
+  margin-top: 5px;
+}
+
+.btn-signup {
+  margin-top: 10px;
+}
+
+.label-user--edit {
+  margin-top: 5px;
+}
+
+.btn-user--edit {
+  margin-top: 10px;
+}
+
+/* show */
+
+#table-user th {
+  text-align: center;
+}
+
+/* ユーザー一覧ページ */
+
+#table-users {
+  td {
+    vertical-align: middle;
+  }  
+}
+
+.pull-right {
+  float: right !important;
+}
+
+.label-user-division {
+  margin-left: 5px;
+}
+
+.label-primary {
+  background-color: #337ab7;
+}
+
+.label-success {
+  background-color: #5cb85c;
+}
